@@ -1,0 +1,10 @@
+black
+black[jupyter]
+coverage
+matplotlib
+numpy
+pandas
+pytest
+scikit-learn
+ipykernel
+seaborn
